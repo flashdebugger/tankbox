@@ -23,7 +23,7 @@ The version of the GitHub repository is a re-engraved version of the classic tan
 
 </details><br>
 
-**Milestone 1.0（looks like a distant future /(ㄒ o ㄒ)/~~）**
+**Milestone 1.0（looks like a distant future :)）**
 
 - [ ] More reasonable computer players
 - [ ] Complete design and development documentation
@@ -36,4 +36,4 @@ The version of the GitHub repository is a re-engraved version of the classic tan
 3.  Run  `yarn start` open webpack-dev-server, and open it in your browser `localhost:8080`
 4.  Run  `yarn build` to pack the production version, packaged in output `dist/` folder
 
-`devConfig.js` Contains some configuration items for development. Note that you need to restart webpack-dev-server after modifying the configuration in this file
+`devConfig.js` Contains some configuration items for development. **Note** that you need to restart webpack-dev-server after modifying the configuration in this file
